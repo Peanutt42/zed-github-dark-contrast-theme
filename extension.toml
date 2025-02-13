@@ -1,0 +1,7 @@
+id = "github-dark-contrast-theme"
+name = "GitHub Dark Contrast Theme"
+version = "1.0"
+schema_version = 1
+authors = ["Peanutt42"]
+description = "modified Github dark theme from https://github.com/mordfustang21/zed-github-dark to be a bit darker"
+repository = "https://github.com/Peanutt42/zed-github-dark-contrast-theme"
